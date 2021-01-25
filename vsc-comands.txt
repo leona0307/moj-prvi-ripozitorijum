@@ -1,0 +1,2 @@
+1. kopiranje reda: shif + alt + strelica  goore ili dole
+2. brisanje reda: ctrl + shit + k
