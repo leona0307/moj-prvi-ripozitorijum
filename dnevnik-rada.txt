@@ -7,3 +7,6 @@
     - git add [ime fajla] 
 - ако желимо да пошаљемо у репо све измене онда користимо:
     - git add .
+
+- кад шаљемо промене или нове фајлове у репо, користимо команду:
+    - git commit -m "naziv koji objašnjava o kakvoj promeni je reč"
