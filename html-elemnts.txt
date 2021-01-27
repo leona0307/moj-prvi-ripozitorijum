@@ -1,0 +1,2 @@
+- every HTML elements has tag.
+    - for example: h1 elements has h1 tag.
